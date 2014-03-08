@@ -137,6 +137,7 @@
 				
 				<configuration>
 				    <links>
+				        <link>http://java-prolog-connectivity.github.io/javadocs/</link>
 				        <link>http://minitoolbox.github.io/javadocs/</link>
             			<link>http://jgum.github.io/javadocs/</link>
             			<link>http://jconverter.github.io/javadocs/</link>
