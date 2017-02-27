@@ -210,7 +210,8 @@
 				<configuration>
 				    <links>
 				        <link>http://java-prolog-connectivity.github.io/javadocs/</link>
-            			<link>http://jgum.github.io/javadocs/</link>
+            			<link>http://jcategory.github.io/javadocs/</link>
+						<link>http://typeutils.github.io/javadocs/</link>
             			<link>http://jconverter.github.io/javadocs/</link>
             			<link>http://docs.guava-libraries.googlecode.com/git/javadoc/</link>
             			<link>http://google-gson.googlecode.com/svn/trunk/gson/docs/javadocs/</link>
