@@ -10,25 +10,12 @@
 
 	<groupId>com.github.java-prolog-connectivity</groupId>
 	<artifactId>jpc-parent</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-alpha</version>
 	
 	<name>jpc-parent</name>
 	<description>Parent POM of JPC related projects</description>
 	<packaging>pom</packaging>
 	<url>https://github.com/java-prolog-connectivity/jpc.parent</url>
-	
-	<repositories>
-		<repository>
-			<id>snapshots-repo</id>
-			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
-			<releases>
-				<enabled>false</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-		</repository>
-	</repositories>
 	
 	<licenses>
 	    <license>
